@@ -1,4 +1,4 @@
-Rails Front-En Project
+Rails Front-End Project
 
 deployed to:
 tranceon.herokuapp.com
